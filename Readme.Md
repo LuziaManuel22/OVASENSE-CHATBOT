@@ -69,4 +69,4 @@ POST http://localhost:5000/chat
 Response:
 ```json
 {
-  "response": "Common symptoms of PCOS include irregular periods
+  "response": "Common symptoms of PCOS include irregular periods"
